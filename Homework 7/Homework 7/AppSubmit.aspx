@@ -39,5 +39,8 @@
                 <textarea class="form-control" rows="5" id="comment"></textarea>
             </div>
         </div>
+        <div class="col-md-2 col-md-offset-5">
+            <a href="#" class="text-center center-block btn btn-info" runat="server" role="button">Submit</a>
+        </div>
     </div>
 </asp:Content>
