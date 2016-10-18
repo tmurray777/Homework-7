@@ -13,7 +13,7 @@
         </div>
         <div class="row">
             <div class="form-group">
-                <label class="control-label">Email:</label>
+                <label class="control-label">Email: </label>
             </div>
         </div>
         <div class="row">
