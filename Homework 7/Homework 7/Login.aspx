@@ -14,8 +14,9 @@
                 <input class="form-control" type="text" id="loginPassword" runat="server"/>
             </div>
         </div>
+
         <div class="col-md-2 col-md-offset-5">
-            <a href="AppSubmit.aspx" class="text-center center-block btn btn-info" runat="server" role="button">Log In</a>
+            <a href="HomePage.aspx" class="text-center center-block btn btn-info" runat="server" role="button">Log In</a>
         </div>
     </div>
 </asp:Content>
