@@ -13,7 +13,7 @@
 </head>
 <body>
     <form id="form1" runat="server">
-        <div><h1>URP Symposium Registration System</h1></div>
+        <div class="col-md-12 text-center"><h1>URP Symposium Registration System</h1></div>
         <div>
             <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
             </asp:ContentPlaceHolder>
