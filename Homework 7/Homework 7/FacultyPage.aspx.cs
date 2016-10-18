@@ -11,7 +11,10 @@ namespace Homework_7
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+        }
 
+        protected void btnViewApps_Click(object sender, EventArgs e)
+        {
         }
     }
 }

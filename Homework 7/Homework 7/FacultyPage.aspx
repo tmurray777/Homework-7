@@ -9,7 +9,7 @@
     </div>
     <div>
         <div class="col-md-6 col-md-offset-3">
-            <a href="#" class="text-center center-block btn btn-info" runat="server" role="button">View Applications</a>
+            <asp:Button ID="btnViewApps" runat="server" class="center-block btn-primary btn-lg" OnClick="btnViewApps_Click" Text="View Applications"/>
         </div>
     </div>
 </asp:Content>
