@@ -4,7 +4,7 @@
         <h2 class="text-center">Faculty Page</h2>
          <p class="text-center">
              Welcome to the Faculty Page for the URP Symposium. <br />
-             Here you can approve or deny and student applications pertaining to you.
+             Here you can approve or deny and student applications pertaining to you.r Test
          </p>
     </div>
     <div>
